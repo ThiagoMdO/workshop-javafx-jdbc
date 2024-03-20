@@ -8,11 +8,11 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class MainApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         try {
-            FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("Main-view.fxml"));
+            FXMLLoader fxmlLoader = new FXMLLoader(MainApplication.class.getResource("Main-view.fxml"));
 
             ScrollPane scrollPane = fxmlLoader.load();
 
