@@ -44,14 +44,16 @@ public class DepartmentListController implements Initializable {
     private ObservableList<Department> observableList;
 
     @FXML
-    public void onBtnNewAction(ActionEvent event){
+    public void onBtnNewAction(ActionEvent event) {
         Stage parentStage = Utils.currentStage(event);
-        createDialogForm("DepartmentForm.fxml", parentStage);
+        Department obj = new Department();
+        createDialogForm(obj, "DepartmentForm.fxml", parentStage);
     }
 
-    public void setDepartmentServices(DepartmentService service){
+    public void setDepartmentServices(DepartmentService service) {
         this.departmentService = service;
     }
+
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         initializeNodes();
@@ -65,17 +67,21 @@ public class DepartmentListController implements Initializable {
         tableViewDepartment.prefHeightProperty().bind(stage.heightProperty());
     }
 
-    public void updateTableView(){
-        if (departmentService == null)throw new IllegalStateException("Service was null");
+    public void updateTableView() {
+        if (departmentService == null) throw new IllegalStateException("Service was null");
         List<Department> list = departmentService.findAll();
         observableList = FXCollections.observableArrayList(list);
         tableViewDepartment.setItems(observableList);
     }
 
-    private void createDialogForm(String absoluteName, Stage parentStage){
+    private void createDialogForm(Department obj, String absoluteName, Stage parentStage) {
         try {
             FXMLLoader loader = new FXMLLoader(getClass().getResource(absoluteName));
             Pane pane = loader.load();
+
+            DepartmentFormController controller = loader.getController();
+            controller.setEntity(obj);
+            controller.updateFormData();
 
             Stage dialogStage = new Stage();
             dialogStage.setTitle("Enter Department data");
@@ -84,7 +90,7 @@ public class DepartmentListController implements Initializable {
             dialogStage.initOwner(parentStage);
             dialogStage.initModality(Modality.WINDOW_MODAL);
             dialogStage.showAndWait();
-        }catch (IOException e){
+        } catch (IOException e) {
             Alerts.showAlert("IO Exception", "Error loading view", e.getMessage(), Alert.AlertType.ERROR);
         }
     }
