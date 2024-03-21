@@ -42,3 +42,5 @@ e
 db.properties,3\b\3b8c33088fa60dfa967fdedbf4c75fa52fdece9a
 n
 >src/main/java/com/corse/workshopjavafxjdbc/gui/util/Utils.java,f\9\f9cea5021946e14b3cd9ff4550b15883bc4a709d
+x
+Hsrc/main/java/com/corse/workshopjavafxjdbc/DepartmentFormController.java,0\d\0d878bfdd226ffa4eeda9efa93bf7a7f95130882
