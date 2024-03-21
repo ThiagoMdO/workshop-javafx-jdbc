@@ -40,3 +40,5 @@ e
 5src/main/java/com/corse/workshopjavafxjdbc/db/DB.java,5\9\596a13ed00ad2906fffecb3b0a1ac12667778f14
 =
 db.properties,3\b\3b8c33088fa60dfa967fdedbf4c75fa52fdece9a
+n
+>src/main/java/com/corse/workshopjavafxjdbc/gui/util/Utils.java,f\9\f9cea5021946e14b3cd9ff4550b15883bc4a709d
