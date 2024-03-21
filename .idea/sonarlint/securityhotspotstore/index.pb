@@ -24,3 +24,11 @@ Wsrc/main/java/com/corse/workshopjavafxjdbc/gui/controlers/DepartmentListControl
 Xsrc/main/java/com/corse/workshopjavafxjdbc/gui/controllers/DepartmentListController.java,0\e\0ed2860e4310c848bb72d3cb16bcb74f5e7c0b66
 x
 Hsrc/main/java/com/corse/workshopjavafxjdbc/DepartmentListController.java,a\8\a82132b773036d5beb289bf00ff9a1d051d38b05
+Å
+Qsrc/main/java/com/corse/workshopjavafxjdbc/model/services/DepartmentServices.java,4\5\451cc87cb6ffa6c170987cfe6ca4fba658087667
+Ä
+Psrc/main/java/com/corse/workshopjavafxjdbc/model/services/DepartmentService.java,c\1\c1bbde409fcda317d6d69bb6dc483a40e57ec23f
+U
+%.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
+N
+src/main/java/module-info.java,1\c\1c89a5491fbfda3fb050196d6a239f20200296e7

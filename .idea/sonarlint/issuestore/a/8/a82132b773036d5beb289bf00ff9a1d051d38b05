@@ -1,5 +1,4 @@
 
-L	java:S106 "+Replace this use of System.out by a logger.(©¥çèüÿÿÿÿ8•Ó¦òå1
-]	java:S125$"<This block of commented-out lines of code should be removed.(Ê´ø§ùÿÿÿÿ8ß³°òå1
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ùê¶òå1
+
+java:S1450#"]Remove the "observableList" field and declare it as a local variable in the relevant methods.(šóá€ÿÿÿÿÿ8Ïì óå1
+L	java:S106'"+Replace this use of System.out by a logger.(©¥çèüÿÿÿÿ8Ñì óå1
