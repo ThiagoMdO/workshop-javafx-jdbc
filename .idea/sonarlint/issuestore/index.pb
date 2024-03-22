@@ -50,3 +50,7 @@ Fsrc/main/java/com/corse/workshopjavafxjdbc/gui/DataChangeListener.java,f\6\f64
 Osrc/main/java/com/corse/workshopjavafxjdbc/gui/listener/DataChangeListener.java,f\e\fe6f45a51100886009e1f3699adb19a64119c304
 „
 Tsrc/main/java/com/corse/workshopjavafxjdbc/model/exceptions/ValidationException.java,3\1\315a3adbc9141d46485059ca8dea526f1f42447c
+|
+Lsrc/main/java/com/corse/workshopjavafxjdbc/model/services/SellerService.java,8\c\8c13c4d6dca227fc039943c164ccbf604f9abf29
+t
+Dsrc/main/java/com/corse/workshopjavafxjdbc/SellerListController.java,5\2\5209d8586034d1f16f2bb98a7ba6915e537e184c
