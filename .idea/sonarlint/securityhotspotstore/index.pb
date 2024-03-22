@@ -44,8 +44,6 @@ n
 >src/main/java/com/corse/workshopjavafxjdbc/gui/util/Utils.java,f\9\f9cea5021946e14b3cd9ff4550b15883bc4a709d
 x
 Hsrc/main/java/com/corse/workshopjavafxjdbc/DepartmentFormController.java,0\d\0d878bfdd226ffa4eeda9efa93bf7a7f95130882
-v
-Fsrc/main/java/com/corse/workshopjavafxjdbc/gui/DataChangeListener.java,f\6\f64081e71dc1fa1b5ecf1fc4b85d3df79d479106
 
 Osrc/main/java/com/corse/workshopjavafxjdbc/gui/listener/DataChangeListener.java,f\e\fe6f45a51100886009e1f3699adb19a64119c304
 „
@@ -54,7 +52,5 @@ Tsrc/main/java/com/corse/workshopjavafxjdbc/model/exceptions/ValidationException
 Lsrc/main/java/com/corse/workshopjavafxjdbc/model/services/SellerService.java,8\c\8c13c4d6dca227fc039943c164ccbf604f9abf29
 t
 Dsrc/main/java/com/corse/workshopjavafxjdbc/SellerListController.java,5\2\5209d8586034d1f16f2bb98a7ba6915e537e184c
-p
-@src/main/java/com/corse/workshopjavafxjdbc/SellerController.java,d\a\da1d847daf83fb9906717e203879624bbb107cc3
 t
 Dsrc/main/java/com/corse/workshopjavafxjdbc/SellerFormController.java,9\1\918d179e3f6b68743f11ef8b197e100278f5fa91

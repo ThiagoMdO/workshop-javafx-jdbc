@@ -1,6 +1,6 @@
 
 j
-java:S3655ª"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûÞ8›±—´æ1
-t	java:S116 "XRename this field "SellerService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝØ«8›±—´æ1
+java:S3655­"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûÞ8›±—´æ1
+t	java:S116!"XRename this field "SellerService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝØ«8›±—´æ1
 
-java:S1450="]Remove the "observableList" field and declare it as a local variable in the relevant methods.(©÷Ð¤þÿÿÿÿ8œ±—´æ1
+java:S1450>"]Remove the "observableList" field and declare it as a local variable in the relevant methods.(©÷Ð¤þÿÿÿÿ8œ±—´æ1

@@ -1,6 +1,6 @@
 
 j
-java:S3655›"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûŞ8ıœ³æ1
+java:S3655œ"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûŞ8ıœ³æ1
 
 java:S14504"]Remove the "observableList" field and declare it as a local variable in the relevant methods.(šóá€ÿÿÿÿÿ8š¶ï²æ1
 [
