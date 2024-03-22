@@ -1,7 +1,9 @@
 
-t	java:S116"XRename this field "SellerService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İØ«8­Ş ³æ1
-x
-java:S14503"]Remove the "observableList" field and declare it as a local variable in the relevant methods.(©÷Ğ¤şÿÿÿÿ
+j
+java:S3655¥"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(ÃÇûŞ8™Îı³æ1
+t	java:S116"XRename this field "SellerService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İØ«8šÎı³æ1
+
+java:S14508"]Remove the "observableList" field and declare it as a local variable in the relevant methods.(©÷Ğ¤şÿÿÿÿ8›Îı³æ1
 h
-java:S1172V"KRemove these unused method parameters "obj", "absoluteName", "parentStage".(µÅ­¥8ˆÍ§³æ1
-]	java:S125W"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‰Í§³æ1
+java:S1172a"KRemove these unused method parameters "obj", "absoluteName", "parentStage".(µÅ­¥8 Îı³æ1
+]	java:S125b"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8 Îı³æ1
