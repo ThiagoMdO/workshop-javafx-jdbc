@@ -1,9 +1,11 @@
 
 ~
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "cell".(„ìŒòûÿÿÿÿ8§àÌ³æ1
+java:S1488!"\Immediately return this expression instead of assigning it to the temporary variable "cell".(„ìŒòûÿÿÿÿ8§àÌ³æ1
 ~
-java:S1488/"\Immediately return this expression instead of assigning it to the temporary variable "cell".(§ı’Üúÿÿÿÿ8ñûÏ³æ1
+java:S1488N"\Immediately return this expression instead of assigning it to the temporary variable "cell".(§ı’Üúÿÿÿÿ8ñûÏ³æ1
 W
-java:S1118":Add a private constructor to hide the implicit public one.(¼Øûì8¶±Ó“æ1
+java:S1118":Add a private constructor to hide the implicit public one.(¼Øûì8¶±Ó“æ1
+{
+java:S11715"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ñ†¹´æ1
 ^
-java:S34577"AFormat specifiers should be used instead of string concatenation.(« ÿ¹8ŠüÏ³æ1
+java:S3457V"AFormat specifiers should be used instead of string concatenation.(« ÿ¹8ŠüÏ³æ1

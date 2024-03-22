@@ -9,7 +9,3 @@ k
 java:S1192”"MDefine a constant instead of duplicating this literal "DepartmentId" 5 times.(ÇÖóÑ8¸›£æ1
 }
 java:S1488y"[Immediately return this expression instead of assigning it to the temporary variable "obj".(–î©Áøÿÿÿÿ8¸›£æ1
-K
-java:S1874$".Remove this use of "<init>"; it is deprecated.(Õª“î8Â›£æ1
-K
-java:S1874I".Remove this use of "<init>"; it is deprecated.(Õª“î8Å›£æ1
