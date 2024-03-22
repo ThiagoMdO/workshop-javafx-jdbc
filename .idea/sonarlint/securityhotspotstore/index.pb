@@ -44,3 +44,7 @@ n
 >src/main/java/com/corse/workshopjavafxjdbc/gui/util/Utils.java,f\9\f9cea5021946e14b3cd9ff4550b15883bc4a709d
 x
 Hsrc/main/java/com/corse/workshopjavafxjdbc/DepartmentFormController.java,0\d\0d878bfdd226ffa4eeda9efa93bf7a7f95130882
+v
+Fsrc/main/java/com/corse/workshopjavafxjdbc/gui/DataChangeListener.java,f\6\f64081e71dc1fa1b5ecf1fc4b85d3df79d479106
+
+Osrc/main/java/com/corse/workshopjavafxjdbc/gui/listener/DataChangeListener.java,f\e\fe6f45a51100886009e1f3699adb19a64119c304
