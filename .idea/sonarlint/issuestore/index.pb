@@ -54,3 +54,7 @@ Tsrc/main/java/com/corse/workshopjavafxjdbc/model/exceptions/ValidationException
 Lsrc/main/java/com/corse/workshopjavafxjdbc/model/services/SellerService.java,8\c\8c13c4d6dca227fc039943c164ccbf604f9abf29
 t
 Dsrc/main/java/com/corse/workshopjavafxjdbc/SellerListController.java,5\2\5209d8586034d1f16f2bb98a7ba6915e537e184c
+p
+@src/main/java/com/corse/workshopjavafxjdbc/SellerController.java,d\a\da1d847daf83fb9906717e203879624bbb107cc3
+t
+Dsrc/main/java/com/corse/workshopjavafxjdbc/SellerFormController.java,9\1\918d179e3f6b68743f11ef8b197e100278f5fa91
