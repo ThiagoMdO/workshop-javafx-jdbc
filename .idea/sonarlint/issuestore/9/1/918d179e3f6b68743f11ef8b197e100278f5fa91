@@ -1,3 +1,11 @@
 
+n
+java:S1192ˆ"KDefine a constant instead of duplicating this literal "baseSalary" 3 times.(éºüëüÿÿÿÿ8Ü‘ğ¹æ1
+h
+java:S1192"JDefine a constant instead of duplicating this literal "birthDate" 3 times.(©†ÿË8Ü‘ğ¹æ1
+r
+java:S1192w"UDefine a constant instead of duplicating this literal "Field can't be empty" 4 times.(ÁïúÚ8Ü‘ğ¹æ1
+c
+java:S1192|"FDefine a constant instead of duplicating this literal "email" 3 times.(Ãÿ°õ8Ü‘ğ¹æ1
 x
-java:S1450H"VRemove the "obsList" field and declare it as a local variable in the relevant methods.(İøîíúÿÿÿÿ8Ì±Úµæ1
+java:S1450I"VRemove the "obsList" field and declare it as a local variable in the relevant methods.(İøîíúÿÿÿÿ8«’ğ¹æ1
